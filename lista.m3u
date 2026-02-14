@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Noticias",Canal 1
+http://linkdelcanal1.m3u8
+
+#EXTINF:-1 group-title="Deportes",Canal 2
+http://linkdelcanal2.m3u8
